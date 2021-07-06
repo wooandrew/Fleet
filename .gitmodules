@@ -1,0 +1,18 @@
+[submodule "includes\\ASWL"]
+	path = includes\\ASWL
+	url = https://github.com/wooandrew/ASWL.git
+[submodule "includes/FREETYPE"]
+	path = includes/FREETYPE
+	url = https://github.com/freetype/freetype.git
+[submodule "includes\\GLAD-master"]
+	path = includes\\GLAD-master
+	url = https://github.com/wooandrew/glad.git
+[submodule "includes/GLFW"]
+	path = includes/GLFW
+	url = https://github.com/glfw/glfw.git
+[submodule "includes/GLM"]
+	path = includes/GLM
+	url = https://github.com/g-truc/glm.git
+[submodule "includes/STB"]
+	path = includes/STB
+	url = https://github.com/nothings/stb.git
